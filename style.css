@@ -1,0 +1,107 @@
+.ui.menu {
+  background-color: #f8f8f8;
+  border: none;
+}
+
+.ui.menu .item {
+  color: darkblue;
+}
+
+.ui.text.menu {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.right.menu .search.icon {
+  color: darkblue;
+}
+
+.ui.text.menu .item {
+  font-weight: 900;
+}
+
+
+.ui.inverted.vertical.segment.landpage-image {
+  background-image: url("https://www.oceanit.com/wp-content/uploads/2020/07/background-resized-scaled.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+  height: 75%;
+}
+
+.ui.header {
+  text-align: center;
+  padding-top: 100px;
+}
+
+h1 {
+  font-size: xxx-large;
+  text-shadow: 2px 2px 20px #303030;
+}
+
+.ui.button {
+  margin-top: 300px;
+  margin-left: 40%;
+  background-color: rgba(21, 20, 20, 0.8);
+  color: white;
+  border: solid;
+  border-radius: 80px;
+}
+
+.column {
+  text-align: center;
+  margin-top: -200px;
+  margin-bottom: 100px;
+}
+
+.ui.circular.button {
+  margin-left: auto;
+  padding: 30px;
+  background-color: #7a82ad;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  padding: 20px;
+  font-weight: 100;
+}
+p {
+  padding: 20px;
+  font-size: large;
+  text-align: center;
+}
+
+.ui.inverted.vertical.segment.landpage-image-2 {
+  background-image: url("https://www.oceanit.com/wp-content/uploads/2019/10/istock-52437234-reduced.jpg?id=2006");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+  height: 90%;
+}
+
+.ui.inverted.vertical.segment.segment-2 {
+  background-color: black;
+}
+
+.footer-p {
+  text-align: left;
+  padding: 0;
+  margin: 5px;
+  color: white;
+}
+
+.footer-p a {
+  color: white;
+}
+
+.ui.category.search {
+  margin: 0;
+}
+
+.ui.vertical.segment.segment-3 {
+  margin: 0;
+}
+
+
+
